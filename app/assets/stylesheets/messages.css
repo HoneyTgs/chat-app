@@ -65,6 +65,11 @@
   color: darkred;
   padding: 20px;
 }
+.form {
+  background-color: #DDDDDD;
+  height: 90px;
+  padding: 20px 40px;
+}
 .messages {
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
@@ -130,5 +135,5 @@
   text-align: center;
 }
 .hidden {
-  display: flex;
+  display: none;
 }
